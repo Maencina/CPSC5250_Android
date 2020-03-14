@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#E1A295</color>
+    <color name="colorPrimaryDark">#D9C6B9</color>
+    <color name="colorAccent">#c8553D</color>
+
+    <color name="pageBackgroundColor">#b6c779</color>
+    <color name="viewBackgroundColor">#D7C078</color>
+    <color name="navigationBarColor">#D9C6B9</color>
+
+    <color name="primaryBackgroundColor">#D9C6B3</color>
+    <color name="secondaryBackgroundColor">#D5C377</color>
+    <color name="tertiaryBackgroundColor">#733613</color>
+    <color name="lightBackgroundColor">#D5C377</color>
+
+    <color name="primaryTextColor">#400D06</color>
+    <color name="secondaryTextColor">#8C3D25</color>
+    <color name="tertiaryTextColor">#733615</color>
+
+</resources>
